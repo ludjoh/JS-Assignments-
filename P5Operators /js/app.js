@@ -1,10 +1,11 @@
-let gold = 50;
-gold + 10;
-console.log(gold);
+let numberofstudents = 0;
+numberofstudents++;
+console.log(numberofstudents);
 
-gold= gold + 10;
-console.log(gold);
+numberofstudents++;
+console.log(numberofstudents);
 
+numberofstudents--;
+console.log(numberofstudents);
 
-
-
+console.log(++numberofstudents);
