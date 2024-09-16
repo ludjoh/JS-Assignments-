@@ -1,4 +1,4 @@
-//const birthYear = 1963;
+//const birthYear = 2000;
 //const currentYear = 2024;
 //let ageofPerson = currentYear - birthYear;
 
