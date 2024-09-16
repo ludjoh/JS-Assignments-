@@ -2,7 +2,7 @@ const birthYear = 2000;
 const currentYear = 2024;
 let ageofPerson = currentYear - birthYear;
 
-let isChild = ageofPerson <= 11 ;
+let isChild = ageofPerson <= 11 && ageofPerson >=0 ;
 
   let isTeenager = ageofPerson >= 11 && ageofPerson <= 17;
 
