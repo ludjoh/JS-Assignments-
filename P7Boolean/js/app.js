@@ -14,21 +14,22 @@
 //console.log("Personen är en tonåring:  "+ isTeenager +"");
 //console.log("Personen är vuxen: "+isAdult+ "");
 
-let playerTouchGround = false;
+//let playerTouchGround = false;
 
-let playerhasjetpak = false;
+//let playerhasjetpak = false;
 
-if (playerTouchGround) {
-console.log("Player is on the ground");
-console.log("Player can jump");
-}
+//if (playerTouchGround) {
+//console.log("Player is on the ground");
+//console.log("Player can jump");
+//}
 
-else if (playerhasjetpak) {
-  console.log("Player cans jet away");
-}
+//else if (playerhasjetpak) {
+  //console.log("Player cans jet away");
+//}
 
-else  {
-  console.log("Player is not on the ground");
-  console.log("You can not jump");
-}
+//else  {
+  //console.log("Player is not on the ground");
+  //console.log("You can not jump");
+//}
+
 
