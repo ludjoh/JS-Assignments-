@@ -37,9 +37,9 @@
 //let H = Math.sqrt(a*a + b*b);
 //console.log(H);
 
-let a = 111;
-let b = 60;
-console.log(1);
-console.log(a% b);
+//let a = 111;
+//let b = 60;
+//console.log(1);
+//console.log(a% b);
 
 
