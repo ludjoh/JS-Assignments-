@@ -37,35 +37,32 @@
 //}
 //console.log(getRandomNumber());
 
-//function Skicka(nummer) {
-  //if (nummer == 0){
-  //  console.log("A");
- // }
- // else if (nummer == 1) {
-  //  console.log("B");
-  //}
- // else if (nummer == 2) {
- //   console.log("C");
-  //}
- // return nummer;
-//}
-
-//console.log(Skicka(0));
-
-function compare(nummer1, nummer2) {
-  if (nummerA = nummer1 > nummer2) {
-    console.log( "First number is greater");
-    return nummerA;
+function Skicka(number) {
+  if (number == 0){
+    return "A";
   }
-  if (nummerB = nummer1 < nummer2) {
-    console.log("Last number is greater");
-    return nummerB;
+  else if (number == 1) {
+    return "B";
   }
-   if (nummerC = nummer1 == nummer2) {
-     console.log ("Numbers are equal");
-     return nummerC;
+  else if (number == 2) {
+return "C";
   }
 }
 
-console.log(compare(6 , 5));
+console.log(Skicka(2));
+
+//function compare(nummer1, nummer2) {
+
+  //if (nummer1 > nummer2) {
+    //return( "First number is greater");
+  //}
+ // if (nummer1 < nummer2) {
+   // return("Last number is greater");
+  //}
+   //if (nummer1 == nummer2) {
+    // return("Numbers are equal");
+  //}
+//}
+
+//console.log(compare(1 , 3));
 
