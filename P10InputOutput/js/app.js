@@ -37,19 +37,19 @@
 //}
 //console.log(getRandomNumber());
 
-function Skicka(number) {
-  if (number == 0){
-    return "A";
+//function Skicka(number) {
+  //if (number == 0){
+  //  return "A";
+  //}
+ // else if (number == 1) {
+  //  return "B";
   }
-  else if (number == 1) {
-    return "B";
-  }
-  else if (number == 2) {
-return "C";
-  }
-}
+ // else if (number == 2) {
+// return "C";
+  //}
+//}
 
-console.log(Skicka(2));
+//console.log(Skicka(2));
 
 //function compare(nummer1, nummer2) {
 
@@ -65,4 +65,5 @@ console.log(Skicka(2));
 //}
 
 //console.log(compare(1 , 3));
+
 
