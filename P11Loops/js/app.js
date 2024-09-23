@@ -14,9 +14,9 @@
 //}
 
 //function power(first, second) {
- // let result = 1;
+//let result = first;
 
- // for (let i = 0; i < second; i++) {
+//for (let i = 1; i < second; i++) {
   //  result *= first;
 // }
 
@@ -24,3 +24,6 @@
 //}
 
 // console.log(power(4, 24));
+
+//console.log(Math.pow(4, 24));
+console.log(4 ** 24);
