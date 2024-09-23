@@ -26,4 +26,9 @@
 // console.log(power(4, 24));
 
 //console.log(Math.pow(4, 24));
-console.log(4 ** 24);
+//console.log(4 ** 24);
+
+//for (i = 999; i > 0; i--) {
+//  console.log("there are " + i + " bottles hanging on the wall, and if one should fall off ");
+//}
+
