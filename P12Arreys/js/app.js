@@ -9,8 +9,6 @@
 
 let randomNumberCount = [0,0,0,0,0,0,0,0,0,0];
 
-randomNumberCount[0] += 1;
-
 for (i = 0; i < 100000; i++) {
  let randomNumber =  getRandomInt(10);
  randomNumberCount[randomNumber] += 1;
