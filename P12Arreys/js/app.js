@@ -23,4 +23,6 @@
 //}
 
 
-document.cookie = "todaysday = Thursday; expires =Thu, 29 sep 2024 12:00:00 UTC"
+let playerscore = 79;
+
+document.cookie = "playerscore =" +playerscore+ ";expires =Thu, 29 sep 2024 12:00:00 UTC"
